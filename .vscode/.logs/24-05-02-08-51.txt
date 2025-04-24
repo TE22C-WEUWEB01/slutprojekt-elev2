@@ -1,0 +1,212 @@
+24-05-02 08:51 Session started
+----------------------------------------
+08:52:18 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\s
+----------------------------------------
+08:52:39 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+08:52:44 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida2.html
+----------------------------------------
+08:52:51 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+08:52:56 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\style.css
+----------------------------------------
+08:53:01 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\index.js
+----------------------------------------
+08:53:03 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+08:53:20 000:000 > h
+08:53:20 000:001 > ht
+08:53:20 000:002 > htm
+08:53:21 000:000 > <!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, ,initial-scale=1">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+</body>
+</html>
+
+08:53:23 001:012 > e
+08:53:23 001:013 > en
+08:53:24 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\style.css
+----------------------------------------
+
+08:53:25 000:000 > r
+08:53:25 000:001 > re
+08:53:26 000:000 > /* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+08:53:27 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\index.js
+----------------------------------------
+08:53:27 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+
+08:53:30 005:011 > S
+08:53:31 005:012 > Sa
+08:53:31 005:013 > Sav
+08:53:31 005:014 > Save
+08:53:31 005:015 > Savet
+08:53:32 005:016 > Savet t
+08:53:32 005:017 > Savet th
+08:53:32 005:018 > Savet the
+08:53:33 005:020 > Savet the T
+08:53:33 005:021 > Savet the Tu
+08:53:33 005:022 > Savet the Tur
+08:53:33 005:023 > Savet the Turt
+08:53:33 005:024 > Savet the Turtl
+08:53:33 005:025 > Savet the Turtle
+08:53:34 005:026 > Savet the Turtles
+08:53:41 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\style.css
+----------------------------------------
+
+08:53:43 012:000 > b
+08:53:43 012:001 > bo
+08:53:44 012:000 > bob
+08:53:44 012:001 > bobo
+08:53:44 012:002 > bobod
+08:53:44 012:003 > bobody
+08:53:45 012:005 > {}
+
+08:53:47 013:004 > w
+08:53:47 013:005 > wi
+08:53:47 013:006 > wid
+08:53:47 013:007 > widt
+08:53:47 013:008 > width
+08:53:48 013:004 > width: ;
+08:53:50 013:011 > 1
+08:53:50 013:012 > 10
+08:53:51 013:013 > 100
+08:53:51 013:014 > 1000
+08:53:52 013:015 > 1000p
+08:53:52 013:016 > 1000px
+08:53:53 013:011 > 1000px
+08:54:07 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+08:54:08 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\style.css
+----------------------------------------
+08:55:38 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+
+09:28:20 009:004 > d
+09:28:20 009:005 > di
+09:28:20 009:006 > div
+09:28:20 009:007 > div.
+09:28:20 009:008 > div.k
+09:28:20 009:009 > div.ko
+09:28:21 009:010 > div.kon
+09:28:22 009:004 > div.kon.
+09:28:22 009:005 > div.kon.k
+09:28:22 009:006 > div.kon.ko
+09:28:22 009:007 > div.kon.kon
+09:28:23 009:008 > div.kon.kont
+09:28:23 009:009 > div.kon.konta
+09:28:23 009:010 > div.kon.kontai
+09:28:23 009:011 > div.kon.kontain
+09:28:23 009:012 > div.kon.kontaine
+09:28:23 009:013 > div.kon.kontainer
+09:28:23 009:004 > <div class="kontainer"></div>
+
+09:28:25 010:008 > h
+09:28:26 010:009 > he
+09:28:26 010:010 > hea
+09:28:26 010:011 > head
+09:28:26 010:012 > heade
+09:28:26 010:013 > header
+09:28:27 010:008 > <header></header>
+
+09:28:30 011:012 > h
+09:28:30 011:013 > h1
+09:28:30 011:012 > <h1></h1>
+
+09:28:33 012:012 > n
+09:28:33 012:013 > na
+09:28:33 012:014 > nav
+09:28:33 012:012 > <nav></nav>
+
+09:28:50 000:000 > B
+09:28:50 000:001 > Bö
+09:28:50 000:002 > Bör
+09:28:51 000:003 > Börj
+09:28:51 000:004 > Börja
+09:28:51 000:005 > Börjat
+09:28:53 000:000 > BörjatS
+09:28:53 000:001 > BörjatSk
+09:28:53 000:002 > BörjatSka
+09:28:53 000:003 > BörjatSkap
+09:28:53 000:004 > BörjatSkapa
+09:28:53 000:005 > BörjatSkapat
+09:28:54 000:007 > BörjatSkapat w
+09:28:54 000:008 > BörjatSkapat we
+09:28:55 000:009 > BörjatSkapat web
+09:28:55 000:010 > BörjatSkapat webb
+09:28:55 000:011 > BörjatSkapat webbs
+09:28:55 000:012 > BörjatSkapat webbsi
+09:28:55 000:013 > BörjatSkapat webbsid
+09:28:55 000:014 > BörjatSkapat webbsida
+09:29:00 000:000 > BörjatSkapat webbsidaB
+09:29:00 000:001 > BörjatSkapat webbsidaBö
+09:29:00 000:002 > BörjatSkapat webbsidaBör
+09:29:01 000:003 > BörjatSkapat webbsidaBört
+09:29:01 000:003 > BörjatSkapat webbsidaBörtj
+09:29:01 000:004 > BörjatSkapat webbsidaBörtja
+09:29:01 000:005 > BörjatSkapat webbsidaBörtjat
+09:29:02 000:007 > BörjatSkapat webbsidaBörtjat m
+09:29:02 000:008 > BörjatSkapat webbsidaBörtjat me
+09:29:02 000:009 > BörjatSkapat webbsidaBörtjat med
+09:29:03 000:011 > BörjatSkapat webbsidaBörtjat med s
+09:29:03 000:012 > BörjatSkapat webbsidaBörtjat med sl
+09:29:03 000:013 > BörjatSkapat webbsidaBörtjat med slu
+09:29:03 000:014 > BörjatSkapat webbsidaBörtjat med slut
+09:29:03 000:015 > BörjatSkapat webbsidaBörtjat med slutp
+09:29:03 000:016 > BörjatSkapat webbsidaBörtjat med slutpr
+09:29:03 000:017 > BörjatSkapat webbsidaBörtjat med slutpro
+09:29:04 000:018 > BörjatSkapat webbsidaBörtjat med slutproj
+09:29:04 000:019 > BörjatSkapat webbsidaBörtjat med slutproje
+09:29:05 000:020 > BörjatSkapat webbsidaBörtjat med slutprojek
+09:29:05 000:021 > BörjatSkapat webbsidaBörtjat med slutprojekt
+09:29:05 000:022 > BörjatSkapat webbsidaBörtjat med slutprojekte
+09:29:05 000:023 > BörjatSkapat webbsidaBörtjat med slutprojektet
+09:29:08 000:000 > <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, ,initial-scale=1">
+    <title>Save the Turtles</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="kontainer">
+        <header>
+            <h1></h1>
+            <nav>
+
+            </nav>
+        </header>
+        
+    </div>
+</body>
+</html>
+12:52:10 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\style.css
+----------------------------------------
+12:52:11 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\index.js
+----------------------------------------
+12:52:12 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+12:52:14 000:000 > c
+12:52:14 000:001 > ch
+12:52:14 000:002 > cha
+12:52:14 000:003 > chan
+12:52:14 000:004 > chang
+12:52:15 000:005 > change

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, ,initial-scale=1">
+    <title>Rädda Sköldpaddorna - Donationer</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Sora:wght@100..800&family=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="kontainer">
+        <header>
+            <h1>Rädda Sköldpaddorna</h1>
+            <nav>
+                <ul>
+                    <li><a href="./sida1.html">Hem</a></li>
+                    <li><a href="./sida2.html">Projekt</a></li>
+                    <li><a href="./sida3.html" class="aktiv">Donationer</a></li>
+                    <li><a href="./sida4.html">Kontakt</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main class="formulär">
+            <article>
+                <h2>Donera till <em>Rädda Sköldpaddorna-räddningscenter</em></h2>
+                <p>Vill du donera...? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi a odit harum beatae? Earum officia optio aliquid dolorum rem voluptatum a voluptatibus incidunt illum odit, quia iusto in ipsam placeat! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse ipsam maiores, officiis enim vero laboriosam blanditiis. Officiis, magni voluptatum. Libero sunt deserunt molestiae eveniet rem necessitatibus sint nobis reiciendis non.</p>
+                <form method="post" action="./svar.php">
+                    <fieldset>
+                        <legend>Namnuppgifter</legend>
+                        <label for="fnamn">Förnamn</label>
+                        <input type="text" id="fnamn" name="fnamn" placeholder="Olivia" required>
+        
+                        <label for="enamn">Efternamn</label>
+                        <input type="text" id="enamn" name="enamn" placeholder="Andersen" required>
+                    </fieldset>
+        
+                    <fieldset>
+                        <legend>Adressuppgifter</legend>
+                        <label for="gadress">Gatuadress</label>
+                        <input type="text" id="gadress" name="gadress" placeholder="Långgatan 12">
+        
+                        <label for="postnr">Postnr</label>
+                        <input type="text" name="postnr" id="postnr" placeholder="12345">
+        
+                        <label for="padress">Postadress</label>
+                        <input type="text" name="padress" id="padress" placeholder="Jönköping">
+                    </fieldset>
+        
+                    <fieldset>
+                        <legend>Kontaktuppgifter</legend>
+                        <label for="mobil">Mobil</label>
+                        <input type="tel" name="mobil" id="mobil" placeholder="0701234567" required pattern="07[0-9]{8}">
+        
+                        <label for="epost">Epost</label>
+                        <input type="email" name="epost" id="epost" placeholder="olivia@nomail.com" required>
+                    </fieldset>
+        
+                    <fieldset>
+                        <legend>Prenumeration</legend>
+                        <label>Donation</label>
+                        <div>
+                            <label for="enskild"><input type="radio" name="prenumeration" id="enskild" value="enskild">Enskild</label>
+                            <label for="manadsvis"><input type="radio" name="prenumeration" id="manadsvis" value="manadsvis">Månadsvis</label>
+                            <label for="arlig"><input type="radio" name="prenumeration" id="arlig" value="arlig">Årlig</label>
+                        </div>
+                    </fieldset>
+        
+                    <button type="submit">Donera</button>
+                </form>
+                <p><em>Tack för din donation! Det gläder oss att du vill vara med och stötta sköldpaddorna.</em></p>
+            </article>
+        </main>
+
+        <aside>
+            <article class="sida">
+                <img src="./bilder/baby-turtle-on-sand.webp" alt="En sköldpaddsunge är påväg till vattnet">
+                <h3>Tack!</h3>
+                <p>Tack för att du donerar till oss! Vi och alla kära sköldpaddor uppskattar det väldigt mycket.</p>
+            </article>
+            <article class="sida">
+                <img src="./bilder/turtle-on-sunny-beach.webp" alt="En sköldpadda som ligger och solar i sanden">
+                <h3>En liten båt</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis eaque nostrum harum omnis dicta. </p>
+            </article>
+            <article class="sida">
+                <img src="./bilder/floating-turtle.webp" alt="En sköldpadda som ligger och flyter i havet">
+                <h3>Visste du att...</h3>
+                <p>... världens äldsta sköldpadda hette Tu"i Malila och gick bort vid åldern 188 år.</p>
+            </article>
+        </aside>
+
+        <footer>
+            <div class="sidfotsmeny">
+                <h4>Rädda Sköldpaddorna</h4>
+                <p>Bilder är tagna från <em><a href="https://unsplash.com/">Unsplash</a></em>. Läs <em><a href="https://unsplash.com/license">Unsplash licensregler</a></em> innan användning.</p>
+            </div>
+            <div class="nedersta">
+                <p class="rattigheter">&#169; 2024 Made by Vilma | Alla rättigheter är förbehållna</p>
+            </div>
+        </footer>
+    </div>
+    <script src="./index.js"></script>
+</body>
+</html>

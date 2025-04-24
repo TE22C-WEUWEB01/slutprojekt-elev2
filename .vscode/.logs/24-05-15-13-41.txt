@@ -1,0 +1,1144 @@
+13:41:34 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida3.html
+----------------------------------------
+24-05-15 13:41 Session started
+----------------------------------------
+13:41:58 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida3.html
+----------------------------------------
+13:42:14 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+
+13:55:54 023:021 > c
+13:55:54 023:022 > cö
+13:55:54 023:023 > cöa
+13:55:54 023:024 > cöas
+13:55:56 023:022 > cöasl
+13:55:56 023:023 > cöasla
+13:55:56 023:024 > cöaslas
+13:55:56 023:025 > cöaslass
+13:55:57 023:021 > class=""
+13:55:57 023:028 > f
+13:55:57 023:029 > fo
+13:55:58 023:030 > foc
+13:55:58 023:031 > focu
+13:55:58 023:032 > focus
+
+13:56:03 030:021 > c
+13:56:03 030:022 > cl
+13:56:03 030:023 > cla
+13:56:03 030:024 > clas
+13:56:03 030:025 > class
+13:56:04 030:026 > class=
+13:56:04 030:027 > ""
+13:56:06 030:028 > f
+13:56:06 030:029 > fo
+13:56:06 030:030 > foc
+13:56:06 030:031 > focu
+13:56:06 030:032 > focus
+13:56:07 030:028 > focus
+
+13:56:11 040:021 > c
+13:56:11 040:022 > cl
+13:56:11 040:023 > cla
+13:56:11 040:024 > clas
+13:56:11 040:025 > class
+13:56:12 040:021 > class=""
+13:56:14 040:028 > s
+13:56:14 040:029 > si
+13:56:14 040:030 > sid
+13:56:14 040:031 > side
+
+13:56:18 046:021 > c
+13:56:18 046:022 > cl
+13:56:18 046:023 > cll
+13:56:18 046:024 > clla
+13:56:19 046:025 > cllas
+13:56:19 046:026 > cllass
+13:56:19 046:023 > cllassa
+13:56:20 046:024 > cllassas
+13:56:20 046:025 > cllassass
+13:56:20 046:021 > class=""
+13:56:21 046:028 > s
+13:56:21 046:029 > si
+13:56:21 046:030 > sid
+13:56:21 046:031 > side
+13:56:22 046:028 > side
+13:56:33 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\style.css
+----------------------------------------
+
+13:56:34 048:015 > n
+13:56:34 048:016 > na
+13:56:34 048:017 > nav
+13:56:34 048:018 > navi
+13:56:35 048:019 > navig
+13:56:35 048:020 > naviga
+13:56:35 048:021 > navigat
+13:56:35 048:022 > navigati
+13:56:35 048:023 > navigatio
+13:56:35 048:024 > navigation
+
+13:58:50 075:020 > -
+13:58:52 075:022 > - S
+13:58:52 075:023 > - Si
+13:58:52 075:024 > - Sid
+13:58:52 075:025 > - Sida
+13:58:53 075:027 > - Sida 1
+13:59:07 075:000 > main {
+13:59:07 076:000 > grid-area: innehallet;
+13:59:08 077:000 > padding: 10px;
+13:59:08 078:000 > font-size: 18px;
+
+13:59:08 079:000 > }
+
+13:59:15 082:013 > .
+13:59:17 082:014 > .f
+13:59:17 082:015 > .fo
+13:59:17 082:016 > .foc
+13:59:17 082:017 > .focu
+13:59:17 082:018 > .focus
+
+13:59:20 088:020 > .
+13:59:20 088:021 > .f
+13:59:20 088:022 > .fo
+13:59:20 088:023 > .foc
+13:59:20 088:024 > .focu
+13:59:20 088:025 > .focus
+13:59:27 088:013 > .focus .
+13:59:27 088:014 > .focus .f
+13:59:27 088:015 > .focus .fo
+13:59:28 088:016 > .focus .foc
+13:59:28 088:017 > .focus .focu
+13:59:28 088:018 > .focus .focus
+14:00:34 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+
+14:00:43 009:016 > c
+14:00:45 009:016 > cc
+14:00:46 009:016 > cck
+14:00:50 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\style.css
+----------------------------------------
+14:00:52 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\style.css
+----------------------------------------
+14:01:47 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+
+14:01:52 001:012 > a
+14:01:52 001:012 > as
+14:01:53 001:013 > asv
+
+14:01:57 005:011 > R
+14:01:57 005:012 > Rä
+14:01:57 005:013 > Räd
+14:01:57 005:014 > Rädd
+14:01:57 005:015 > Rädda
+14:01:58 005:017 > Rädda S
+14:01:58 005:018 > Rädda Sk
+14:01:58 005:019 > Rädda Skö
+14:01:58 005:020 > Rädda Sköl
+14:01:59 005:021 > Rädda Sköld
+14:01:59 005:022 > Rädda Sköldp
+14:01:59 005:023 > Rädda Sköldpa
+14:01:59 005:024 > Rädda Sköldpad
+14:01:59 005:025 > Rädda Sköldpadd
+14:02:00 005:026 > Rädda Sköldpaddo
+14:02:00 005:027 > Rädda Sköldpaddor
+14:02:03 005:028 > Rädda Sköldpaddorn
+14:02:03 005:029 > Rädda Sköldpaddorna
+
+14:02:08 011:016 > F
+14:02:08 011:017 > Fä
+14:02:08 011:018 > Fäd
+14:02:08 011:019 > Fädd
+14:02:08 011:020 > Fädda
+14:02:10 011:016 > FäddaR
+14:02:10 011:017 > FäddaRä
+14:02:10 011:018 > FäddaRäd
+14:02:10 011:019 > FäddaRädd
+14:02:10 011:020 > FäddaRädda
+14:02:10 011:022 > FäddaRädda s
+14:02:11 011:023 > FäddaRädda sk
+14:02:11 011:022 > FäddaRädda skS
+14:02:11 011:023 > FäddaRädda skSk
+14:02:12 011:024 > FäddaRädda skSkö
+14:02:12 011:025 > FäddaRädda skSköl
+14:02:12 011:026 > FäddaRädda skSköld
+14:02:12 011:027 > FäddaRädda skSköldp
+14:02:12 011:028 > FäddaRädda skSköldpa
+14:02:12 011:029 > FäddaRädda skSköldpad
+14:02:13 011:030 > FäddaRädda skSköldpadd
+14:02:13 011:031 > FäddaRädda skSköldpaddo
+14:02:13 011:032 > FäddaRädda skSköldpaddor
+14:02:13 011:033 > FäddaRädda skSköldpaddorn
+14:02:13 011:034 > FäddaRädda skSköldpaddorna
+
+14:02:15 014:062 > H
+14:02:15 014:063 > He
+14:02:15 014:064 > Hem
+
+14:02:18 015:047 > P
+14:02:18 015:048 > Pr
+14:02:18 015:049 > Pro
+14:02:18 015:050 > Proj
+14:02:18 015:051 > Proje
+14:02:18 015:052 > Projek
+14:02:18 015:053 > Projekt
+
+14:02:20 016:047 > D
+14:02:21 016:048 > Do
+14:02:21 016:049 > Don
+14:02:21 016:050 > Dona
+14:02:21 016:051 > Donat
+14:02:21 016:052 > Donati
+14:02:21 016:053 > Donatio
+14:02:21 016:054 > Donation
+14:02:21 016:055 > Donatione
+14:02:22 016:056 > Donationer
+
+14:02:24 017:047 > K
+14:02:24 017:048 > Ko
+14:02:25 017:049 > Kon
+14:02:25 017:050 > Kont
+14:02:25 017:051 > Konta
+14:02:25 017:052 > Kontak
+14:02:25 017:053 > Kontakt
+
+14:02:28 023:028 > f
+14:02:28 023:029 > fo
+14:02:28 023:030 > fok
+14:02:28 023:031 > foku
+14:02:29 023:032 > fokus
+
+14:02:33 025:068 > E
+14:02:33 025:069 > En
+14:02:33 025:071 > En s
+14:02:33 025:072 > En sk
+14:02:34 025:073 > En skö
+14:02:34 025:074 > En sköl
+14:02:34 025:075 > En sköld
+14:02:34 025:076 > En sköldp
+14:02:34 025:077 > En sköldpa
+14:02:35 025:078 > En sköldpad
+14:02:35 025:079 > En sköldpadd
+14:02:35 025:080 > En sköldpadda
+14:02:35 025:082 > En sköldpadda s
+14:02:35 025:083 > En sköldpadda so
+14:02:35 025:084 > En sköldpadda som
+14:02:35 025:086 > En sköldpadda som s
+14:02:36 025:087 > En sköldpadda som si
+14:02:36 025:088 > En sköldpadda som sim
+14:02:36 025:089 > En sköldpadda som simm
+14:02:36 025:090 > En sköldpadda som simma
+14:02:36 025:091 > En sköldpadda som simmar
+14:02:36 025:093 > En sköldpadda som simmar i
+14:02:37 025:095 > En sköldpadda som simmar i h
+14:02:37 025:096 > En sköldpadda som simmar i ha
+14:02:37 025:097 > En sköldpadda som simmar i hav
+14:02:37 025:098 > En sköldpadda som simmar i have
+14:02:37 025:099 > En sköldpadda som simmar i havet
+
+14:02:40 030:028 > f
+14:02:40 030:029 > fo
+14:02:40 030:030 > fok
+14:02:40 030:031 > foku
+14:02:40 030:032 > fokus
+
+14:02:44 032:068 > E
+14:02:45 032:069 > En
+14:02:45 032:071 > En s
+14:02:45 032:072 > En sk
+14:02:45 032:073 > En skö
+14:02:45 032:074 > En sköl
+14:02:46 032:075 > En sköld
+14:02:46 032:076 > En sköld p
+14:02:46 032:077 > En sköld pa
+14:02:46 032:078 > En sköld pad
+14:02:46 032:079 > En sköld padd
+14:02:47 032:080 > En sköld padda
+14:02:47 032:082 > En sköld padda s
+14:02:47 032:083 > En sköld padda so
+14:02:47 032:084 > En sköld padda som
+14:02:47 032:086 > En sköld padda som s
+14:02:47 032:087 > En sköld padda som si
+14:02:48 032:088 > En sköld padda som sim
+14:02:48 032:089 > En sköld padda som simm
+14:02:48 032:090 > En sköld padda som simma
+14:02:48 032:091 > En sköld padda som simma r
+14:02:49 032:093 > En sköld padda som simma r i
+14:02:49 032:095 > En sköld padda som simma r i h
+14:02:49 032:096 > En sköld padda som simma r i ha
+14:02:49 032:097 > En sköld padda som simma r i hav
+14:02:49 032:098 > En sköld padda som simma r i have
+14:02:49 032:099 > En sköld padda som simma r i havet
+
+14:02:55 034:020 > S
+14:02:55 034:021 > Sk
+14:02:56 034:022 > Skö
+14:02:56 034:023 > Sköl
+14:02:56 034:024 > Sköld
+14:02:56 034:025 > Sköldp
+14:02:57 034:026 > Sköldpa
+14:02:57 034:027 > Sköldpad
+14:02:57 034:028 > Sköldpadd
+14:02:57 034:029 > Sköldpadda
+14:02:58 034:031 > Sköldpadda s
+14:02:58 034:032 > Sköldpadda so
+14:02:58 034:033 > Sköldpadda som
+14:02:58 034:035 > Sköldpadda som s
+14:02:58 034:036 > Sköldpadda som si
+14:02:59 034:037 > Sköldpadda som sim
+14:02:59 034:038 > Sköldpadda som simm
+14:02:59 034:039 > Sköldpadda som simme
+14:02:59 034:039 > Sköldpadda som simmea
+14:02:59 034:040 > Sköldpadda som simmear
+14:02:59 034:042 > Sköldpadda som simmear i
+14:03:00 034:044 > Sköldpadda som simmear i h
+14:03:00 034:045 > Sköldpadda som simmear i ha
+14:03:00 034:046 > Sköldpadda som simmear i hav
+14:03:00 034:047 > Sköldpadda som simmear i have
+14:03:00 034:048 > Sköldpadda som simmear i havet
+
+14:03:08 027:020 > S
+14:03:08 027:021 > Sk
+14:03:08 027:022 > Skö
+14:03:08 027:023 > Sköl
+14:03:08 027:024 > Sköld
+14:03:09 027:025 > Sköldp
+14:03:09 027:026 > Sköldpa
+14:03:09 027:027 > Sköldpad
+14:03:09 027:028 > Sköldpadd
+14:03:09 027:029 > Sköldpadda
+14:03:10 027:031 > Sköldpadda i
+14:03:10 027:033 > Sköldpadda i h
+14:03:10 027:034 > Sköldpadda i ha
+14:03:10 027:035 > Sköldpadda i hav
+14:03:10 027:036 > Sköldpadda i have
+14:03:11 027:037 > Sköldpadda i havet
+
+14:03:18 034:029 > a
+
+14:03:20 040:031 > a
+
+14:03:27 042:068 > S
+14:03:28 042:069 > Sk
+14:03:28 042:070 > Skö
+14:03:28 042:071 > Sköl
+14:03:28 042:072 > Sköld
+14:03:30 042:068 > SköldS
+14:03:30 042:069 > SköldSk
+14:03:31 042:068 > SköldSkS
+14:03:31 042:069 > SköldSkSk
+14:03:33 042:068 > SköldSkSkS
+14:03:33 042:069 > SköldSkSkSk
+14:03:33 042:070 > SköldSkSkSkö
+14:03:33 042:071 > SköldSkSkSköl
+14:03:34 042:072 > SköldSkSkSköld
+14:03:34 042:073 > SköldSkSkSköldp
+14:03:34 042:074 > SköldSkSkSköldpa
+14:03:34 042:075 > SköldSkSkSköldpad
+14:03:34 042:076 > SköldSkSkSköldpadd
+14:03:34 042:077 > SköldSkSkSköldpadda
+14:03:35 042:079 > SköldSkSkSköldpadda s
+14:03:35 042:080 > SköldSkSkSköldpadda so
+14:03:35 042:081 > SköldSkSkSköldpadda som
+14:03:35 042:083 > SköldSkSkSköldpadda som s
+14:03:35 042:084 > SköldSkSkSköldpadda som si
+14:03:36 042:085 > SköldSkSkSköldpadda som sim
+14:03:36 042:086 > SköldSkSkSköldpadda som simm
+14:03:36 042:087 > SköldSkSkSköldpadda som simma
+14:03:36 042:088 > SköldSkSkSköldpadda som simmar
+14:03:36 042:090 > SköldSkSkSköldpadda som simmar i
+14:03:36 042:092 > SköldSkSkSköldpadda som simmar i h
+14:03:37 042:093 > SköldSkSkSköldpadda som simmar i ha
+14:03:37 042:094 > SköldSkSkSköldpadda som simmar i hav
+14:03:37 042:095 > SköldSkSkSköldpadda som simmar i have
+14:03:37 042:096 > SköldSkSkSköldpadda som simmar i havet
+14:03:39 042:068 > SköldSkSkSköldpadda som simmar i havetE
+14:03:39 042:069 > SköldSkSkSköldpadda som simmar i havetEn
+
+14:03:44 046:028 > s
+14:03:44 046:029 > si
+14:03:45 046:030 > sid
+14:03:45 046:031 > sida
+14:03:45 046:028 > sida
+14:03:49 048:068 > En köldpadda som simmar i havet
+
+14:03:52 048:071 > s
+
+14:03:53 042:071 > s
+14:03:58 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida2.html
+----------------------------------------
+14:04:02 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida3.html
+----------------------------------------
+14:04:06 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida4.html
+----------------------------------------
+
+14:04:14 001:012 > s
+14:04:14 001:013 > sv
+
+14:04:18 005:011 > R
+14:04:18 005:012 > Rä
+14:04:18 005:013 > Räd
+14:04:18 005:014 > Rädd
+14:04:18 005:015 > Rädda
+14:04:19 005:017 > Rädda s
+14:04:19 005:018 > Rädda sk
+14:04:19 005:019 > Rädda skö
+14:04:20 005:017 > Rädda sköS
+14:04:20 005:018 > Rädda sköSk
+14:04:20 005:019 > Rädda sköSkö
+14:04:20 005:020 > Rädda sköSköl
+14:04:20 005:021 > Rädda sköSköld
+14:04:21 005:022 > Rädda sköSköldp
+14:04:21 005:023 > Rädda sköSköldpa
+14:04:21 005:024 > Rädda sköSköldpad
+14:04:21 005:025 > Rädda sköSköldpadd
+14:04:21 005:026 > Rädda sköSköldpaddo
+14:04:21 005:027 > Rädda sköSköldpaddor
+14:04:22 005:028 > Rädda sköSköldpaddorn
+14:04:22 005:029 > Rädda sköSköldpaddorna
+
+14:04:25 011:016 > R
+14:04:25 011:017 > Rä
+14:04:26 011:018 > Räd
+14:04:26 011:019 > Rädd
+14:04:26 011:020 > Rädda
+14:04:27 011:022 > Rädda S
+14:04:27 011:023 > Rädda Sk
+14:04:27 011:024 > Rädda Skö
+14:04:27 011:025 > Rädda Sköl
+14:04:27 011:026 > Rädda Sköld
+14:04:28 011:022 > Sköldpaddorna
+
+14:04:30 014:047 > H
+14:04:30 014:048 > He
+14:04:30 014:049 > Hem
+
+14:04:32 015:047 > P
+14:04:33 015:048 > Pr
+14:04:33 015:049 > Pro
+14:04:33 015:050 > Proj
+14:04:33 015:051 > Proje
+14:04:33 015:052 > Projek
+14:04:33 015:053 > Projekt
+14:04:33 015:054 > Projekte
+14:04:34 015:055 > Projekten
+14:04:36 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+
+14:04:38 014:054 > a
+14:04:38 014:055 > ak
+14:04:38 014:056 > akt
+14:04:38 014:057 > akti
+14:04:38 014:058 > aktiv
+14:04:40 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida4.html
+----------------------------------------
+14:04:41 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+14:04:44 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida4.html
+----------------------------------------
+
+14:04:46 016:047 > D
+14:04:46 016:048 > Do
+14:04:46 016:049 > Don
+14:04:46 016:050 > Dona
+14:04:46 016:051 > Donat
+14:04:46 016:052 > Donati
+14:04:46 016:053 > Donatio
+14:04:46 016:054 > Donation
+14:04:46 016:055 > Donatione
+14:04:47 016:056 > Donationer
+
+14:04:48 017:054 > a
+14:04:48 017:055 > ak
+14:04:48 017:056 > akt
+14:04:49 017:057 > akti
+14:04:49 017:058 > aktiv
+14:04:50 017:061 > aktivK
+14:04:50 017:062 > aktivKo
+14:04:51 017:063 > aktivKon
+14:04:51 017:064 > aktivKont
+14:04:51 017:065 > aktivKonta
+14:04:51 017:066 > aktivKontak
+14:04:51 017:067 > aktivKontakt
+
+14:04:55 023:028 > k
+14:04:55 023:029 > ko
+14:04:55 023:030 > kon
+14:04:55 023:031 > kont
+14:04:55 023:032 > konta
+14:04:55 023:033 > kontak
+14:04:56 023:034 > kontakt
+14:04:56 023:035 > kontakti
+
+14:05:02 028:022 > l
+14:05:02 028:023 > lk
+14:05:02 028:024 > lko
+14:05:02 028:022 > lkok
+14:05:02 028:023 > lkoko
+14:05:03 028:024 > lkokon
+14:05:03 028:025 > lkokont
+14:05:03 028:026 > lkokonta
+14:05:03 028:027 > lkokontak
+14:05:03 028:028 > lkokontakt
+14:05:03 028:029 > lkokontaktn
+14:05:04 028:030 > lkokontaktnu
+14:05:04 028:031 > lkokontaktnum
+14:05:04 028:032 > lkokontaktnumm
+14:05:04 028:033 > lkokontaktnumme
+14:05:04 028:034 > lkokontaktnummer
+14:05:08 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\style.css
+----------------------------------------
+14:05:11 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+14:05:12 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+14:05:23 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\style.css
+----------------------------------------
+
+14:05:24 071:005 > a
+14:05:24 071:006 > ak
+14:05:24 071:007 > akt
+14:05:24 071:008 > akti
+14:05:24 071:009 > aktiv
+
+14:05:29 082:016 > k
+
+14:05:31 088:016 > k
+
+14:05:44 091:013 > .
+14:05:44 091:014 > .f
+14:05:44 091:015 > .fo
+14:05:45 091:016 > .fok
+14:05:45 091:017 > .foku
+14:05:45 091:018 > .fokus
+
+14:05:48 094:013 > .
+14:05:48 094:014 > .f
+14:05:48 094:015 > .fo
+14:05:49 094:016 > .fok
+14:05:49 094:017 > .foku
+14:05:49 094:018 > .fokus
+
+14:05:51 097:013 > .
+14:05:51 097:014 > .f
+14:05:51 097:015 > .fo
+14:05:52 097:016 > .fok
+14:05:52 097:017 > .foku
+14:05:52 097:018 > .fokus
+
+14:06:27 082:013 > f
+14:06:27 082:014 > fo
+14:06:27 082:015 > fok
+14:06:28 082:016 > foku
+14:06:28 082:017 > fokus
+14:06:29 082:013 > .fokus
+
+14:06:47 106:014 > .
+14:06:47 106:015 > .s
+14:06:47 106:016 > .si
+14:06:47 106:017 > .sid
+14:06:48 106:018 > .sida
+
+14:06:50 112:014 > .
+14:06:50 112:015 > .s
+14:06:50 112:016 > .si
+14:06:50 112:017 > .sid
+14:06:50 112:018 > .sida
+
+14:07:17 106:000 > .
+14:07:44 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+
+14:07:45 023:033 > 1
+
+14:07:46 030:033 > 1
+
+14:07:48 040:032 > 1
+
+14:07:50 046:032 > 1
+14:08:01 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida2.html
+----------------------------------------
+14:08:01 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida2.html
+----------------------------------------
+14:08:02 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida3.html
+----------------------------------------
+14:08:02 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida3.html
+----------------------------------------
+14:08:03 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida4.html
+----------------------------------------
+14:08:03 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida4.html
+----------------------------------------
+14:08:04 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+14:09:03 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida2.html
+----------------------------------------
+14:09:04 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+14:09:05 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida3.html
+----------------------------------------
+14:09:05 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+14:09:06 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida4.html
+----------------------------------------
+14:09:07 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+14:09:30 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\style.css
+----------------------------------------
+
+14:09:32 110:019 > 5
+14:09:37 110:019 > 57
+
+14:09:46 084:019 > 1
+14:09:52 084:020 > 15
+
+14:09:57 087:004 > b
+14:09:57 087:005 > bo
+14:09:58 087:006 > box
+14:09:59 087:004 > box-shadow: ;
+14:10:00 087:016 > 2
+14:10:00 087:017 > 2p
+14:10:00 087:018 > 2px
+14:10:00 087:020 > 2px 2
+14:10:00 087:021 > 2px 2p
+14:10:01 087:022 > 2px 2px
+14:10:17 087:024 > 2px 2px 1
+14:10:17 087:025 > 2px 2px 10
+14:10:18 087:026 > 2px 2px 10p
+14:10:18 087:027 > 2px 2px 10px
+14:10:24 087:029 > 2px 2px 10px #
+14:10:27 087:029 > #4e6a6f
+14:11:09 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+14:11:11 036:022 > -->
+14:11:11 030:012 > <!--
+14:13:11 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\style.css
+----------------------------------------
+
+14:13:11 086:004 > b
+14:13:12 086:005 > ba
+14:13:12 086:006 > bac
+14:13:12 086:007 > back
+14:13:12 086:004 > background: ;
+14:13:14 086:016 > #
+14:13:16 086:016 > #fff
+14:13:18 085:025 > */
+14:13:18 085:004 > /*
+14:13:39 085:025 > */
+14:13:39 085:004 > /*
+14:13:41 086:021 > */
+14:13:41 086:004 > /*
+14:13:42 088:037 > */
+14:13:42 088:004 > /*
+
+14:13:47 089:004 > b
+14:13:47 089:005 > bo
+14:13:47 089:006 > bor
+14:13:47 089:007 > bord
+14:13:47 089:008 > borde
+14:13:47 089:009 > border
+14:13:48 089:004 > border: ;
+14:13:48 089:012 > 2
+14:13:49 089:013 > 2p
+14:13:49 089:014 > 2px
+14:13:50 089:016 > 2px 2
+14:13:52 089:016 > 2px 2s
+14:13:52 089:017 > 2px 2so
+14:13:52 089:018 > 2px 2sol
+14:13:52 089:019 > 2px 2soli
+14:13:52 089:020 > 2px 2solid
+14:13:53 089:016 > solid
+14:13:54 089:022 >  #
+14:13:55 089:022 >  #v
+14:13:55 089:023 >  #va
+14:13:55 089:024 >  #var
+14:13:55 089:022 > var()
+14:13:57 089:026 > --1
+14:14:01 084:024 > */
+14:14:01 084:004 > /*
+14:14:33 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida3.html
+----------------------------------------
+14:14:37 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+14:14:38 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida3.html
+----------------------------------------
+14:14:39 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\style.css
+----------------------------------------
+
+14:15:21 095:004 > w
+14:15:22 095:005 > wi
+14:15:22 095:006 > wid
+14:15:22 095:004 > width: ;
+14:15:23 095:011 > 6
+14:15:23 095:012 > 60
+14:15:23 095:013 > 600
+14:15:24 095:014 > 600p
+14:15:24 095:015 > 600px
+14:15:24 095:011 > 600px
+14:15:32 095:011 > 2
+14:15:35 095:011 > 26
+14:15:45 095:004 > 26m
+14:15:45 095:005 > 26ma
+14:15:45 095:006 > 26max
+14:15:46 095:007 > 26max-
+14:15:46 095:004 > max-width
+
+14:16:36 116:011 > 1
+14:16:36 116:012 > 10
+14:16:37 116:013 > 100
+14:16:37 116:014 > 100p
+14:16:37 116:015 > 100px
+14:16:40 116:011 > 100px2
+
+14:16:46 112:013 > 2
+14:16:52 107:018 > */
+14:16:52 107:004 > /*
+
+14:17:06 110:017 > a
+14:17:07 110:018 > au
+14:17:07 110:019 > aut
+14:17:07 110:020 > auto
+
+14:17:19 118:000 > .
+14:17:19 118:001 > .s
+14:17:19 118:002 > .si
+14:17:19 118:003 > .sid
+14:17:19 118:004 > .sida
+14:17:24 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+
+14:17:28 044:020 > C
+14:17:29 044:021 > Ch
+14:17:29 044:022 > Che
+14:17:29 044:023 > Chec
+14:17:29 044:024 > Check
+14:17:29 044:026 > Check h
+14:17:29 044:027 > Check he
+14:17:29 044:028 > Check her
+14:17:30 044:029 > Check here
+14:17:30 044:030 > Check here!
+
+14:17:35 050:020 > C
+14:17:36 050:021 > Ch
+14:17:36 050:022 > Che
+14:17:36 050:023 > Chec
+14:17:36 050:024 > Check
+14:17:36 050:026 > Check h
+14:17:36 050:027 > Check he
+14:17:37 050:028 > Check her
+14:17:37 050:029 > Check here
+14:17:40 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\style.css
+----------------------------------------
+
+14:17:43 118:006 > h
+14:17:43 118:007 > h3
+14:17:44 118:009 > {}
+
+14:17:47 119:004 > f
+14:17:47 119:005 > fo
+14:17:48 119:004 > fom
+14:17:48 119:005 > foma
+14:17:48 119:006 > fomar
+14:17:49 119:007 > fomarg
+14:17:49 119:008 > fomargi
+14:17:49 119:009 > fomargin
+14:17:51 119:004 > margin: ;
+14:17:53 119:012 > a
+14:17:53 119:013 > at
+14:17:53 119:014 > atu
+14:17:53 119:013 > atuu
+14:17:54 119:014 > atuut
+14:17:54 119:015 > atuutp
+14:17:55 119:015 > atuutpo
+14:17:56 119:017 > atuutpo 1
+14:17:56 119:018 > atuutpo 10
+14:17:56 119:019 > atuutpo 10p
+14:17:57 119:020 > atuutpo 10px
+14:17:57 119:017 > 10px
+14:20:25 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+14:20:36 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\style.css
+----------------------------------------
+14:20:50 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+14:21:01 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\style.css
+----------------------------------------
+14:21:18 083:018 > */
+14:21:18 083:004 > /*
+
+14:21:21 092:011 > 1
+14:21:22 092:012 > 10
+14:21:22 092:013 > 100
+14:21:22 092:014 > 100%
+
+14:21:32 090:004 > w
+14:21:32 090:005 > wi
+14:21:36 090:004 > wiw
+14:21:36 090:005 > wiwi
+14:24:47 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+
+14:24:50 025:056 > -
+14:24:53 025:039 > turtle-in-the-sea - kopia.png
+14:25:03 025:039 > turtle-in-the-sea-.webp
+
+14:26:16 050:030 > !
+14:30:33 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\style.css
+----------------------------------------
+14:30:34 089:031 > */
+14:30:34 089:004 > /*
+
+14:30:46 090:004 > w
+14:30:46 090:005 > wi
+14:30:46 090:006 > wid
+14:30:46 090:007 > widt
+14:30:46 090:008 > width
+14:30:46 090:004 > width: ;
+14:30:49 090:004 > m
+14:30:49 090:005 > ma
+14:30:49 090:006 > max
+14:30:50 090:004 > max-width:
+14:30:51 090:015 > 2
+14:30:51 090:016 > 20
+14:30:51 090:017 > 200
+14:30:51 090:018 > 200p
+14:30:51 090:019 > 200px
+14:30:56 090:015 > 200px6
+14:32:39 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+
+14:32:40 042:056 > -
+14:34:36 042:056 > --
+14:34:36 042:057 > --k
+14:34:37 042:058 > --ko
+14:34:38 042:039 > turtle-in-the-sea-kopia.webp
+14:34:44 042:039 > turtle-in-the-sea-ko.webp
+14:34:47 042:056 > -ko
+14:34:48 042:039 > turtle-in-the-sea-kopia.webp
+
+14:34:51 025:056 > -
+14:34:52 025:039 > turtle-in-the-sea-kopia.webp
+
+14:34:55 048:056 > -
+14:34:56 048:039 > turtle-in-the-sea-kopia.webp
+14:35:02 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\style.css
+----------------------------------------
+14:35:02 090:021 > */
+14:35:02 090:004 > /*
+14:36:57 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+14:36:59 025:056 > ()
+
+14:37:00 025:057 > 1
+14:37:00 025:058 > 1)
+14:37:01 025:058 > 1))
+14:38:06 025:059 > 1))-
+14:38:08 025:039 > turtle-in-the-sea(1) - kopia.webp
+14:38:30 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\style.css
+----------------------------------------
+
+14:38:44 099:012 > 1
+14:38:45 099:013 > 10
+14:38:47 099:012 > 102
+14:39:08 099:000 > margin: 20px;
+
+14:39:16 087:013 > 1
+14:39:20 088:037 > */
+14:39:20 088:004 > /*
+
+14:39:32 099:012 > 1
+14:39:32 099:013 > 11
+14:39:36 099:012 > 112
+
+14:39:39 100:004 > p
+14:39:39 100:005 > pa
+14:39:39 100:006 > pad
+14:39:39 100:007 > padd
+14:39:40 100:004 > padding: ;
+14:39:40 100:013 > 2
+14:39:40 100:014 > 20
+14:39:41 100:015 > 200
+14:39:41 100:016 > 200p
+14:39:41 100:017 > 200px
+14:39:41 100:013 > 200px
+14:39:48 100:019 >  2
+14:39:48 100:020 >  20
+14:39:48 100:021 >  20p
+14:39:48 100:022 >  20px
+14:39:50 099:017 > */
+14:39:50 099:004 > /*
+14:39:59 100:013 > 5
+14:39:59 100:014 > 50
+14:40:43 100:004 > 50m
+14:40:43 100:005 > 50ma
+14:40:43 100:006 > 50mar
+14:40:43 100:007 > 50marg
+14:40:43 100:008 > 50margi
+14:40:44 100:004 > margin-bottom: ;
+14:40:45 100:019 > 2
+14:40:45 100:020 > 20
+14:40:45 100:021 > 20p
+14:40:45 100:022 > 20px
+14:40:48 100:019 > 20px2
+14:40:48 100:020 > 20px2+
+14:40:48 100:021 > 20px2++
+14:40:50 100:020 > 20px2++0
+14:40:50 100:021 > 20px2++00
+14:40:53 100:020 > ++
+14:40:54 100:019 > 2
+14:40:55 100:004 > margi
+14:41:10 083:018 > */
+14:41:10 083:004 > /*
+14:41:28 090:021 > */
+14:41:28 090:004 > /*
+14:41:35 088:037 > */
+14:41:35 088:004 > /*
+
+14:41:44 101:000 > .
+14:41:44 101:001 > .f
+14:41:44 101:002 > .fo
+14:41:44 101:003 > .fok
+14:41:45 101:004 > .foku
+14:41:45 101:005 > .fokus
+14:41:47 101:006 > .fokus :
+14:41:48 101:007 > .fokus :h
+14:41:48 101:008 > .fokus :ho
+14:41:48 101:009 > .fokus :hov
+14:41:48 101:010 > .fokus :hove
+14:41:48 101:011 > .fokus :hover
+14:41:49 101:013 > {}
+14:41:58 101:004 > box-shadow: 2px 2px 10px #4e6a6f;
+
+14:42:06 102:004 > t
+14:42:06 102:005 > tr
+14:42:07 102:006 > tra
+14:42:07 102:007 > tran
+14:42:07 102:004 > transform: ;
+14:42:10 102:004 > r
+14:42:10 102:005 > re
+14:42:10 102:006 > rea
+14:42:12 102:004 > reat
+14:42:12 102:005 > reatr
+14:42:12 102:006 > reatra
+14:42:12 102:007 > reatran
+14:42:13 102:004 > transition: ;
+14:42:15 102:016 > 0
+14:42:15 102:017 > 0.
+14:42:15 102:018 > 0.1
+14:42:16 102:019 > 0.1s
+14:42:20 102:018 > 0.1s2
+
+14:42:27 090:004 > t
+14:42:28 090:005 > tr
+14:42:28 090:006 > tra
+14:42:28 090:007 > tran
+14:42:28 090:008 > trans
+14:42:29 090:004 > transition: ;
+14:42:30 090:016 > 0
+14:42:30 090:017 > 0.
+14:42:31 090:018 > 0.2
+14:42:31 090:019 > 0.2s
+
+14:42:57 094:004 > b
+14:42:57 094:005 > bo
+14:42:57 094:006 > bor
+14:42:58 094:004 > border-radius: ;
+14:42:59 094:019 > 5
+14:42:59 094:020 > 5p
+14:42:59 094:021 > 5px
+14:42:59 094:019 > 5px
+14:43:05 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+
+14:43:07 029:016 > p
+14:43:07 029:016 > <p></p>
+14:43:09 029:019 > C
+14:43:09 029:020 > Ch
+14:43:09 029:021 > Che
+14:43:10 029:022 > Chec
+14:43:10 029:023 > Check
+14:43:10 029:025 > Check m
+14:43:11 029:026 > Check mo
+14:43:11 029:027 > Check mor
+14:43:11 029:028 > Check more
+14:43:13 029:029 > Check more!
+14:43:14 029:030 > Check more! -
+14:43:15 029:031 > Check more! --
+14:43:16 029:032 > Check more! -->
+14:43:59 029:030 > &#8407;
+14:44:23 029:030 > &RightArrow;
+14:59:57 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\style.css
+----------------------------------------
+
+14:59:59 024:004 > f
+14:59:59 024:005 > fo
+14:59:59 024:006 > fon
+14:59:59 024:007 > font
+15:00:00 024:004 > font-size: ;
+15:00:01 024:015 > 1
+15:00:01 024:016 > 18
+15:00:02 024:017 > 18p
+15:00:02 024:018 > 18px
+15:00:02 024:015 > 18px
+15:00:12 Document switched to: c:\Users\vilma.evborn\github-classroom\TE22C-WEUWEB01\slutprojekt-te22c-evborn-vilma\slutprojekt\sida1.html
+----------------------------------------
+15:00:14 037:022 > -->
+15:00:14 031:012 > <!--
+
+15:00:19 000:000 > u
+15:00:19 000:001 > ut
+15:00:19 000:002 > uts
+15:00:19 000:003 > utse
+15:00:19 000:004 > utsee
+15:00:20 000:005 > utseen
+15:00:20 000:006 > utseend
+15:00:20 000:007 > utseende
+15:00:23 001:000 > <html lang="sv">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, ,initial-scale=1">
+    <title>Rädda Sköldpaddorna</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="kontainer">
+        <header>
+            <h1>Rädda Sköldpaddorna</h1>
+            <nav>
+                <ul>
+                    <li><a href="./sida1.html" class="aktiv">Hem</a></li>
+                    <li><a href="./sida2.html">Projekt</a></li>
+                    <li><a href="./sida3.html">Donationer</a></li>
+                    <li><a href="./sida4.html">Kontakt</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <article class="fokus">
+                
+                    <img src="./bilder/turtle-in-the-sea(1) - kopia.webp" alt="En sköldpadda som simmar i havet">
+                
+                <h2>Sköldpadda</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae quos architecto consectetur doloremque? Ipsam, totam reprehenderit? Quidem non, odit libero, laudantium maiores eveniet, nihil deserunt voluptatibus at veniam delectus nemo.</p>
+                <p>Check more &RightArrow;</p>
+            </article>
+            <!-- <article class="fokus">
+                <figure>
+                    <img src="./bilder/turtle-in-the-sea.webp" alt="En sköldpadda som simmar i havet">
+                </figure>
+                <h2>Sköldpadda</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae quos architecto consectetur doloremque? Ipsam, totam reprehenderit? Quidem non, odit libero, laudantium maiores eveniet, nihil deserunt voluptatibus at veniam delectus nemo.</p>
+            </article> -->
+        </main>
+
+        <aside>
+            <article class="sida">
+                <figure>
+                    <img src="./bilder/turtle-in-the-sea-kopia.webp" alt="En sköldpadda som simmar i havet">
+                </figure>
+                <h3>Check here!</h3>
+            </article>
+            <article class="sida">
+                <figure>
+                    <img src="./bilder/turtle-in-the-sea-kopia.webp" alt="En sköldpadda som simmar i havet">
+                </figure>
+                <h3>Check here!</h3>
+15:00:24 024:000 > font-size: 18px;
+}
+
+.kontainer {
+    background: #fff;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-template-areas: 
+    "sidhuvudet sidhuvudet"
+    "innehallet sidebar"
+    "sidfoten sidfoten";
+}
+
+/* Utseende på header */
+header {
+    grid-area: sidhuvudet;
+    display: flex;
+    justify-content: space-between;
+    background: var(--4);
+    padding: 30px;
+}
+header h1 {
+    color: #fff;
+}
+
+/* Utseende på navigation */
+nav {
+
+}
+nav ul {
+
+}
+nav ul li {
+    display: inline;
+}
+nav ul li a {
+    padding: 5px 15px;
+    text-decoration: none;
+    color: #fff;
+    transition: 0.2s;
+    font-size: 16px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+nav ul li a:hover {
+    color: var(--1);
+    transition: 0.2s;
+}
+nav .aktiv {
+    color: var(--1);
+}
+
+main {
+    grid-area: innehallet;
+    padding: 10px;
+    font-size: 18px;
+}
+
+/* Utseende på main - Sida 1 */
+.fokus {
+    /* padding: 10px; */
+    border-radius: 5px;
+    /* background: var(--1); */
+    /* background: #fff; */
+    margin: 20px 30px;
+    /* border: 2px solid var(--1); */
+    /* max-width: 600px; */
+    transition: 0.2s;
+}
+.fokus img {
+    width: 100%;
+    border-radius: 5px;
+}
+.fokus h2 {
+    margin: 20px;
+}
+.fokus p {
+    margin: 20px;
+}
+.fokus:hover {
+    box-shadow: 2px 2px 10px #4e6a6f;
+    transition: 0.2s;
+}
+
+/* Utseende på aside */
+aside {
+    grid-area: sidebar;
+    padding: 10px;
+}
+.sida {
+    margin: 20px auto;
+    background: var(--35);
+    padding: 20px;
+    border-radius: 7px;
+}
+.sida figure img {
+    width: 200px;
+}
+.sida h3 {
+    margin: auto 10px;
